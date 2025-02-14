@@ -1,0 +1,5 @@
+- Understand the functionality of the pthread_join function
+- Practice the use of the pthread_join function in a program
+- Apply the concept of mutual exclusion in the context of a C++ program
+- Better understand solutions to the mutual exclusion problem
+- Apply strict alternation to address the problem of mutual exclusion
