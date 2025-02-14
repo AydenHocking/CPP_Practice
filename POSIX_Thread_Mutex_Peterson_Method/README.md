@@ -1,0 +1,4 @@
+- Better understand solutions to the mutual exclusion problem
+- Practice the implementation of more robust methods to address the mutual exclusion problem
+- Apply Peterson’s solution to address the problem of mutual exclusion
+- Apply Pthreads mutexes to address the problem of mutual exclusion
